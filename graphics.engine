@@ -9,3 +9,6 @@ sync:view-source:https://raw.githubusercontent.com/ahamdesigner/syam/main/speed
 cooling:fan-cooled temperature controlled
 ininity:view-source:https://raw.githubusercontent.com/ahamdesigner/infinity/main/infinity
 rendering:realtime 0 fps with maya
+graphics-type:vector
+colour-mode:R[red]G[green]B[blue]
+Human-color-range:personal choice
